@@ -6,7 +6,6 @@ def turn_count(board)
     character != ""
     turn_counter += 1
   end
-  turn_counter
 end
-
+turn_counter
 end
